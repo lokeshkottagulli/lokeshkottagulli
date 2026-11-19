@@ -12,9 +12,18 @@
 
 </p>
 
+<p align="center">
+  <a href="https://infyspringboard.onwingspan.com/web/en/page/home" title="Infosys Springboard"><img src="https://github.com/user-attachments/assets/813fdeb6-cf44-4950-9d33-246735f604db" alt="Infosys Springboard" height="62"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.fynityinnovations.com/" title="Fynity Innovations"><img src="https://www.fynityinnovations.com/fynity.png" alt="Fynity Innovations" height="46"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.careerezi.com/" title="CareerEzi"><img src="https://www.careerezi.com/careerezi_logo.png" alt="CareerEzi" height="62"></a>
+</p>
+
 ## 🏅 Certification showcase
 
-Certificates issued by **Fynity Innovations** through **CareerEzi**. Select any badge to open its official verification page.
+- **Fynity Innovations / CareerEzi** · [16 certificates](https://github.com/lokeshkottagulli/lokesh-certifications)
+- **Infosys Springboard** · [3 certificates completed](https://infyspringboard.onwingspan.com/web/en/page/home)
 
 
 
