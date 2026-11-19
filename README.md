@@ -1,4 +1,4 @@
-<h1 align="center">Kottagulli Lokesh Kumar</h1>
+<h1 align="center">Lokesh Kumar Kottagulli</h1>
 
 <p align="center"><strong>Generative AI · LLM Applications · Web Development</strong></p>
 
@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/14%20COURSES-1D4ED8?style=for-the-badge" alt="14 courses" height="30">
   <img src="https://img.shields.io/badge/2%20DOMAIN%20PROGRAMS-7C3AED?style=for-the-badge" alt="2 domain programs" height="30">
 </p>
+
+## 🏅 Certification showcase
+
+Certificates issued by **Fynity Innovations** through **CareerEzi**. Select any badge to open its official verification page.
+
+
 
 👨‍💻 About Me
 
