@@ -7,11 +7,22 @@ I'm a Computer Science & Engineering enthusiast focused on building practical AI
 - 🌱 Learning deployment, system integration, and production engineering
 - 🤝 Interested in real-world, user-focused technology
 - 🎯 Goal: Become a skilled Forward Deployed Engineer
-🛠️ Tech Stack
-<div align="center">Languages & Frontend
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind&perline=6" alt="Python, JavaScript, HTML, CSS, React and Tailwind CSS" />Backend & AI/ML
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,pytorch&perline=5" alt="Node.js, Express, Flask, Django and PyTorch" />Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&perline=5" alt="Git, GitHub, VS Code, Vercel and Linux" /></div><!-- Icons provided by https://skillicons.dev/ . Remove any tools you do not use yet. -->🚀 Featured Projects
+
+## 🛠️ Tech Stack
+
+### Languages & Frontend
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind&perline=6" alt="Python, JavaScript, HTML, CSS, React and Tailwind CSS" />
+
+### Backend & AI/ML
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,pytorch&perline=5" alt="Node.js, Express, Flask, Django and PyTorch" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&perline=5" alt="Git, GitHub, VS Code, Vercel and Linux" />
+
+🚀 Featured Projects
 Add links to your actual repositories below once published.
 
 Project	Description	Repository
