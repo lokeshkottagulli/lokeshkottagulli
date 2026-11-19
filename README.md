@@ -2,6 +2,7 @@
 🚀 Aspiring Forward Deployed Engineer | AI/ML & Full-Stack Developer
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+real-world+AI+solutions;Python+%7C+React.js+%7C+PyTorch;Turning+ideas+into+working+products" alt="Animated introduction" />
 </div>👨‍💻 About Me
+
 I'm a Computer Science & Engineering enthusiast focused on building practical AI and web applications. I'm developing skills relevant to Forward Deployed Engineering: understanding real-world problems, shipping solutions, and collaborating with users.
 - 🔭 Working on AI/ML and full-stack projects
 - 🌱 Learning deployment, system integration, and production engineering
